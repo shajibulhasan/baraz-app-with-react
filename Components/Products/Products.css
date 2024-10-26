@@ -1,0 +1,19 @@
+.flashsale-container img{
+    width: 200px;
+    height: 200px;
+}
+.card-body:hover{
+    background-color: #fff;
+}
+.card-title{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.card-price{
+    color: #f52224;
+    font-size: 18px;
+}
+.card-text{
+    font-size: 12px;
+
+}
